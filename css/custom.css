@@ -1,12 +1,12 @@
 #name {
-  font-size: 600%;
-  width: 900px;
+  font-size: 6vw;
+  width: 65%;
   line-height: 100%;
 }				
 
 #description {
-  font-size: 250%;
+  font-size: 3vw;
   font-weight: bold;
-  width: 900px;
+  width: 65%;
   line-height: 100%;
 }
